@@ -1,0 +1,65 @@
+body{
+    width: 60%;
+    margin: 0 auto;
+   
+}
+main{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: aquamarine;
+}
+h1,h2{
+    color: darkgreen;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+article{
+    width: 30%;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+    text-align: center;
+}
+.spisuk{
+    width: 30%;
+    background-color: lightgreen;
+    margin: auto;
+}
+.spisuk li{
+    margin-bottom: 5px;
+  
+}
+.li{
+    font-size: 18px;
+}
+
+
+img{
+    width: 70%;
+}
+section{
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+form{
+    background-color: lightgreen;
+    width: 30%;
+    text-align: left;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+table{
+    margin: auto;
+    border-color: brown;
+}
+ul.ezera{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
